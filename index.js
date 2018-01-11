@@ -12,7 +12,7 @@ function nowServing(katzDeliLine) {
     nextUp = `Currently serving ${katzDeliLine[0]}.`;
     katzDeliLine.shift();
   }
-  return NextUp;
+  return nextUp;
 }
 
 function currentLine(katzDeliLine) {
