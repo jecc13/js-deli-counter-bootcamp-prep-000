@@ -6,5 +6,5 @@ function takeANumber(katzDeliLine, newCustomer) {
 }
 
 function nowServing(katzDeliLine) {
-  
+  var nextUp = 
 }
